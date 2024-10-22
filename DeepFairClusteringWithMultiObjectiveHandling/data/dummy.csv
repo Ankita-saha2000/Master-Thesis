@@ -1,0 +1,501 @@
+Age,Education,Occupation,HoursPerWeek,Income,Sex,Race
+69,High School,Tech,17,0,Male,White
+32,Doctorate,Services,60,0,Female,Other
+89,Masters,Tech,64,0,Female,Asian
+78,Masters,Tech,35,0,Female,Asian
+38,Masters,Services,70,1,Male,Asian
+41,Bachelors,Other,30,0,Female,Other
+20,Doctorate,Other,71,1,Male,Other
+39,Masters,Services,74,1,Female,White
+70,Bachelors,Management,63,0,Male,Hispanic
+19,Some College,Tech,28,0,Male,Asian
+47,Some College,Tech,60,0,Male,Hispanic
+55,Bachelors,Management,79,0,Female,Other
+19,Bachelors,Other,37,1,Female,Other
+81,Doctorate,Admin,22,0,Male,Other
+77,Doctorate,Admin,68,0,Male,Hispanic
+38,Some College,Admin,20,0,Female,Other
+50,Masters,Other,68,0,Female,White
+75,Some College,Other,64,0,Male,Other
+39,Masters,Management,17,0,Female,Black
+66,Masters,Tech,12,0,Female,Hispanic
+76,Doctorate,Management,22,0,Female,Black
+59,High School,Management,17,0,Female,Other
+77,High School,Other,10,0,Male,White
+32,Bachelors,Admin,65,0,Female,Asian
+79,Doctorate,Sales,22,0,Female,Other
+79,Masters,Tech,50,0,Male,White
+64,High School,Other,14,0,Male,Hispanic
+79,Masters,Admin,64,0,Female,Black
+68,High School,Sales,47,0,Female,Black
+72,High School,Sales,29,0,Female,Black
+81,High School,Other,76,0,Female,Hispanic
+20,Doctorate,Services,36,0,Male,White
+68,Some College,Tech,52,1,Male,Hispanic
+24,Masters,Sales,76,0,Male,Black
+38,Doctorate,Other,7,0,Female,Other
+90,Doctorate,Other,29,1,Female,Asian
+56,Doctorate,Admin,11,1,Female,Hispanic
+35,Doctorate,Services,33,0,Female,Hispanic
+21,Doctorate,Tech,6,0,Male,White
+77,Bachelors,Management,79,0,Male,White
+31,Masters,Admin,32,0,Female,Hispanic
+26,Doctorate,Sales,51,0,Male,Black
+70,Masters,Sales,75,0,Female,Asian
+19,Bachelors,Admin,58,0,Female,White
+77,Bachelors,Other,26,0,Male,Black
+88,Masters,Sales,46,1,Female,Other
+61,High School,Services,29,0,Female,White
+25,Some College,Tech,4,0,Male,Black
+64,High School,Services,13,0,Female,Black
+52,High School,Sales,39,0,Female,Asian
+53,High School,Management,15,0,Male,Asian
+67,Doctorate,Tech,29,0,Female,Other
+21,Bachelors,Tech,29,0,Male,Black
+19,High School,Admin,75,0,Female,Black
+23,Bachelors,Admin,32,0,Male,Asian
+71,Masters,Management,2,0,Male,White
+21,Some College,Other,47,0,Male,White
+71,Masters,Tech,78,0,Female,Hispanic
+80,Masters,Management,22,1,Male,Asian
+35,Doctorate,Admin,75,0,Male,Hispanic
+61,Some College,Admin,27,0,Male,Asian
+51,Masters,Tech,67,0,Male,Other
+79,Masters,Services,56,0,Male,Black
+31,Some College,Sales,21,1,Female,Other
+65,Some College,Admin,47,0,Female,Asian
+32,Masters,Other,80,1,Female,Black
+89,Some College,Other,59,0,Female,White
+79,Masters,Admin,6,0,Female,White
+57,Masters,Services,19,0,Female,Hispanic
+70,Doctorate,Services,57,1,Female,Asian
+41,High School,Management,69,0,Male,Asian
+43,Masters,Other,3,0,Female,White
+77,Bachelors,Management,1,1,Male,Other
+58,High School,Other,58,0,Male,Black
+46,High School,Sales,38,0,Female,Other
+32,High School,Sales,15,0,Male,Other
+62,Doctorate,Tech,34,1,Male,White
+82,Masters,Management,61,0,Male,White
+88,Doctorate,Admin,35,0,Male,White
+26,Masters,Management,64,1,Female,Hispanic
+18,Doctorate,Admin,25,0,Female,Other
+25,Doctorate,Services,24,0,Female,Asian
+80,Bachelors,Management,12,0,Female,Black
+28,Doctorate,Services,18,0,Female,Hispanic
+25,Some College,Sales,15,1,Female,Asian
+52,Bachelors,Sales,80,1,Female,Other
+52,Doctorate,Tech,27,0,Female,White
+50,High School,Management,72,0,Female,Other
+22,Some College,Services,60,0,Female,Black
+58,Some College,Admin,46,0,Male,Hispanic
+45,Some College,Sales,17,0,Female,Hispanic
+24,Bachelors,Sales,53,0,Male,Black
+90,Doctorate,Admin,8,0,Male,Asian
+89,Doctorate,Services,79,0,Male,Asian
+29,High School,Services,27,0,Male,Hispanic
+51,High School,Management,46,0,Female,Hispanic
+50,Some College,Management,50,0,Male,White
+65,High School,Other,71,1,Female,Asian
+40,Bachelors,Other,3,0,Female,Black
+79,Doctorate,Tech,64,1,Male,Asian
+54,Some College,Sales,44,1,Female,White
+61,High School,Management,53,0,Male,Hispanic
+52,Bachelors,Services,24,1,Male,Hispanic
+82,Bachelors,Admin,60,0,Female,White
+64,High School,Services,3,0,Female,Black
+20,Doctorate,Sales,20,0,Male,Hispanic
+18,High School,Other,46,0,Female,Other
+22,Some College,Services,15,0,Female,Hispanic
+31,High School,Tech,25,0,Female,Other
+44,Bachelors,Sales,78,0,Male,White
+26,High School,Other,71,0,Male,White
+32,Doctorate,Admin,17,0,Female,Hispanic
+59,Masters,Other,9,0,Female,Asian
+68,High School,Tech,38,0,Female,Other
+80,Doctorate,Sales,48,0,Female,Black
+69,Doctorate,Admin,60,1,Female,Hispanic
+21,Bachelors,Tech,63,0,Male,Black
+40,Doctorate,Other,2,0,Female,Hispanic
+32,Doctorate,Tech,72,0,Male,Asian
+60,Doctorate,Sales,11,0,Female,Asian
+46,Doctorate,Management,64,1,Male,Asian
+53,Some College,Tech,77,0,Female,Asian
+30,Some College,Tech,72,1,Male,White
+49,Bachelors,Other,21,0,Female,White
+88,High School,Other,18,0,Male,Other
+76,Doctorate,Admin,64,0,Male,Black
+45,High School,Other,38,0,Male,Hispanic
+83,High School,Services,32,0,Male,Hispanic
+59,Bachelors,Sales,11,1,Male,White
+62,Doctorate,Sales,45,1,Male,Hispanic
+79,Doctorate,Management,33,0,Female,White
+74,Masters,Management,41,1,Male,Other
+23,High School,Sales,8,1,Female,Black
+45,High School,Management,11,0,Female,Other
+45,Some College,Admin,51,0,Female,Asian
+61,Masters,Other,41,0,Female,Asian
+47,Some College,Sales,17,0,Female,Asian
+79,Some College,Management,76,0,Male,Other
+79,Some College,Sales,46,0,Male,Hispanic
+18,Bachelors,Services,32,1,Male,Black
+44,Bachelors,Tech,79,0,Female,Asian
+79,Some College,Other,80,0,Male,Asian
+20,Masters,Sales,54,1,Male,Asian
+87,High School,Tech,20,1,Male,Black
+89,Masters,Management,33,0,Male,Asian
+44,Doctorate,Tech,74,1,Male,Black
+26,Bachelors,Other,40,0,Female,Asian
+79,High School,Sales,32,0,Male,Other
+54,High School,Services,2,0,Female,Other
+68,Doctorate,Management,33,0,Female,Black
+61,Doctorate,Sales,77,0,Female,Other
+41,Some College,Other,30,0,Female,Black
+76,Bachelors,Management,33,0,Female,Other
+49,Bachelors,Admin,77,0,Male,Other
+69,Masters,Tech,26,0,Male,Black
+79,Some College,Other,22,1,Male,Hispanic
+75,Some College,Admin,66,0,Female,Other
+69,Some College,Sales,38,0,Male,Asian
+29,Some College,Services,46,0,Male,Hispanic
+56,Bachelors,Management,15,0,Female,Black
+19,Bachelors,Tech,44,0,Female,Hispanic
+20,Some College,Management,49,1,Female,White
+73,Masters,Sales,75,0,Female,White
+76,High School,Management,61,0,Male,Other
+19,High School,Tech,67,0,Female,Other
+19,Masters,Sales,6,0,Female,Asian
+71,Some College,Management,9,0,Male,Hispanic
+18,Bachelors,Services,6,0,Male,White
+36,High School,Other,73,0,Female,Other
+19,Doctorate,Sales,32,0,Male,Hispanic
+70,Doctorate,Other,41,0,Female,Other
+61,Masters,Sales,76,0,Female,Other
+49,Some College,Services,8,1,Male,White
+87,High School,Other,72,0,Male,White
+49,Some College,Admin,50,1,Female,Other
+85,High School,Tech,62,0,Female,Black
+72,Masters,Admin,62,0,Female,Other
+73,Masters,Management,7,0,Male,Other
+34,Doctorate,Services,75,0,Female,Asian
+55,Some College,Admin,80,0,Female,Asian
+41,Doctorate,Sales,4,0,Female,Asian
+86,Some College,Management,6,0,Female,Black
+87,Doctorate,Management,58,1,Female,Black
+28,Bachelors,Admin,22,0,Male,Other
+33,Bachelors,Admin,26,0,Female,Asian
+90,Bachelors,Services,3,0,Female,Black
+76,Bachelors,Tech,41,1,Female,White
+87,High School,Admin,60,0,Female,Other
+20,Bachelors,Admin,14,0,Male,Hispanic
+37,Masters,Other,75,0,Male,Other
+76,Masters,Sales,12,0,Male,Hispanic
+53,High School,Other,12,0,Female,Asian
+36,Bachelors,Other,13,1,Female,Hispanic
+84,Bachelors,Management,25,0,Male,Asian
+36,Bachelors,Tech,45,0,Male,White
+37,Doctorate,Sales,19,0,Male,Hispanic
+88,Some College,Services,55,0,Female,Other
+69,Doctorate,Services,45,0,Female,Asian
+50,Some College,Admin,8,0,Male,Other
+57,Bachelors,Admin,53,0,Male,Black
+56,Bachelors,Services,55,0,Male,Asian
+18,Doctorate,Admin,32,0,Female,Hispanic
+28,Doctorate,Tech,51,0,Female,Asian
+74,Some College,Other,44,0,Female,Other
+67,Masters,Admin,70,1,Male,White
+40,Some College,Management,18,0,Male,Asian
+48,Doctorate,Admin,22,0,Female,Hispanic
+59,Doctorate,Sales,37,1,Male,Black
+24,High School,Tech,56,0,Female,White
+33,Doctorate,Sales,59,1,Male,Black
+77,High School,Sales,3,0,Male,Asian
+19,Masters,Management,28,1,Male,Other
+18,Some College,Tech,74,0,Male,Other
+65,Some College,Tech,35,0,Female,Hispanic
+29,High School,Tech,61,0,Male,Other
+86,Some College,Tech,54,1,Female,White
+54,Doctorate,Tech,63,1,Female,Other
+49,Bachelors,Management,79,0,Female,Hispanic
+26,High School,Admin,7,0,Male,Asian
+36,Some College,Sales,76,1,Female,Asian
+65,High School,Tech,49,0,Female,Other
+20,High School,Admin,31,1,Female,Black
+37,Bachelors,Admin,58,1,Male,Asian
+41,Doctorate,Sales,61,0,Male,Other
+71,High School,Management,24,0,Female,Hispanic
+50,Some College,Services,20,0,Male,Other
+41,Masters,Services,37,0,Female,Asian
+89,High School,Admin,4,1,Female,Hispanic
+53,High School,Other,20,0,Male,Other
+55,Bachelors,Other,60,1,Female,White
+42,Doctorate,Sales,24,0,Male,Hispanic
+35,Masters,Services,50,1,Male,White
+83,Some College,Admin,49,0,Female,Black
+71,Masters,Management,51,0,Male,Hispanic
+52,Some College,Services,36,0,Male,White
+78,Doctorate,Admin,66,0,Female,Asian
+58,Some College,Admin,79,0,Female,Asian
+50,Bachelors,Tech,34,1,Male,Black
+85,Bachelors,Management,36,0,Male,Hispanic
+50,Bachelors,Tech,6,0,Female,Hispanic
+31,Bachelors,Sales,39,0,Male,Hispanic
+38,Masters,Tech,42,0,Male,Black
+65,Doctorate,Tech,58,0,Male,Hispanic
+37,Some College,Services,12,1,Male,Asian
+25,Some College,Other,3,1,Male,White
+24,Bachelors,Admin,18,1,Male,Asian
+84,Bachelors,Management,40,1,Male,Asian
+34,High School,Tech,21,0,Female,White
+50,Doctorate,Management,15,0,Female,Asian
+65,Masters,Other,26,0,Female,Black
+76,Some College,Other,8,1,Female,White
+39,High School,Tech,42,0,Female,Asian
+47,High School,Sales,44,0,Male,Other
+55,Some College,Tech,14,0,Male,Asian
+68,Masters,Services,78,0,Male,Black
+71,High School,Admin,2,1,Male,Hispanic
+25,High School,Sales,37,1,Female,Asian
+44,Doctorate,Tech,69,0,Male,Hispanic
+44,Masters,Management,38,1,Male,Other
+38,High School,Sales,41,0,Female,Asian
+47,Masters,Sales,62,0,Male,White
+45,Some College,Tech,60,0,Male,Hispanic
+81,Bachelors,Sales,14,0,Female,Other
+86,High School,Management,2,0,Male,White
+78,Doctorate,Other,70,1,Male,White
+65,Some College,Sales,17,0,Male,White
+36,Masters,Other,28,1,Male,White
+21,Some College,Management,66,0,Male,Asian
+52,High School,Tech,35,0,Female,Asian
+81,Masters,Admin,5,0,Female,Asian
+66,Bachelors,Sales,65,0,Female,Other
+34,Some College,Admin,40,0,Female,Other
+61,High School,Management,76,1,Female,Other
+47,Doctorate,Sales,56,0,Female,Black
+63,Masters,Other,36,0,Male,Other
+23,Some College,Services,45,0,Female,Asian
+54,Some College,Admin,23,0,Female,Asian
+41,Bachelors,Sales,47,0,Male,Black
+63,Bachelors,Admin,31,0,Male,Black
+70,Doctorate,Sales,11,0,Female,Other
+77,Doctorate,Tech,10,0,Male,Hispanic
+80,High School,Other,67,0,Female,Black
+49,High School,Admin,14,0,Male,White
+50,Doctorate,Services,80,0,Female,Asian
+84,Doctorate,Services,74,0,Male,White
+35,Masters,Management,10,1,Male,Asian
+42,Bachelors,Sales,76,0,Female,Asian
+71,High School,Admin,1,0,Female,Black
+75,Bachelors,Management,5,0,Female,Black
+84,Bachelors,Admin,20,1,Female,White
+63,Doctorate,Sales,8,0,Female,Asian
+41,Masters,Services,43,0,Male,White
+49,Some College,Tech,76,1,Female,Hispanic
+64,Masters,Services,1,0,Female,White
+40,Masters,Management,57,0,Male,Other
+83,Bachelors,Other,64,0,Male,White
+44,Masters,Tech,28,0,Female,Other
+19,High School,Management,37,1,Male,Other
+34,Bachelors,Sales,47,0,Male,Other
+50,High School,Tech,76,0,Female,Hispanic
+26,Some College,Management,37,0,Male,White
+60,Bachelors,Sales,49,0,Male,White
+65,Some College,Services,44,0,Female,Hispanic
+56,Bachelors,Other,56,1,Female,Asian
+59,Doctorate,Sales,28,0,Male,Black
+43,Masters,Admin,79,0,Male,White
+67,Doctorate,Sales,6,0,Female,Black
+42,Some College,Sales,61,0,Male,Hispanic
+41,Masters,Other,20,0,Male,Asian
+30,Bachelors,Admin,78,0,Male,Asian
+77,Masters,Management,2,1,Female,Asian
+24,High School,Management,73,0,Male,Hispanic
+74,Masters,Sales,37,0,Male,Other
+53,High School,Admin,20,0,Female,Other
+62,Masters,Admin,26,0,Male,Black
+37,High School,Other,29,1,Male,Other
+82,Some College,Services,1,0,Female,Other
+25,Doctorate,Management,35,0,Female,Asian
+33,Bachelors,Other,70,0,Female,Asian
+31,Masters,Tech,59,0,Female,Black
+32,Doctorate,Management,69,0,Male,White
+83,Bachelors,Other,33,0,Male,Black
+49,Bachelors,Management,51,1,Female,Black
+80,High School,Services,78,0,Female,Hispanic
+68,Some College,Tech,12,0,Male,Hispanic
+42,Some College,Services,20,0,Female,Black
+75,Doctorate,Tech,53,1,Male,Black
+80,Some College,Sales,43,0,Female,Black
+79,Masters,Other,50,1,Male,Other
+39,Some College,Tech,29,0,Female,Hispanic
+75,Doctorate,Services,57,0,Female,Black
+75,Some College,Management,39,1,Male,Asian
+66,Masters,Tech,56,0,Female,Asian
+69,High School,Other,43,0,Male,Other
+59,Doctorate,Tech,50,0,Male,Other
+87,High School,Admin,23,1,Male,White
+32,High School,Management,44,0,Male,White
+71,High School,Other,38,0,Male,White
+77,Bachelors,Other,23,0,Female,Other
+25,Bachelors,Sales,45,0,Female,Other
+70,High School,Services,52,0,Male,Other
+77,Doctorate,Sales,80,1,Female,Asian
+22,Masters,Other,50,1,Male,Other
+85,Masters,Management,8,1,Female,Asian
+23,Some College,Tech,1,0,Female,White
+64,Doctorate,Tech,8,0,Female,White
+72,Bachelors,Management,29,1,Female,White
+57,High School,Other,5,0,Male,Black
+69,Some College,Tech,47,1,Male,Black
+33,Masters,Tech,34,1,Female,Hispanic
+30,Bachelors,Tech,65,0,Female,Hispanic
+47,Bachelors,Services,55,0,Male,Hispanic
+36,High School,Services,43,0,Female,Black
+34,Masters,Admin,74,0,Male,Black
+80,Doctorate,Sales,30,0,Male,Hispanic
+36,Bachelors,Management,17,1,Male,Hispanic
+75,High School,Management,26,0,Female,Other
+72,Doctorate,Management,8,0,Male,Hispanic
+79,Masters,Admin,47,0,Female,Other
+40,Bachelors,Services,76,0,Male,Asian
+26,Doctorate,Other,72,0,Female,Black
+29,Doctorate,Other,46,0,Female,Hispanic
+18,Doctorate,Admin,68,0,Female,Black
+75,Bachelors,Other,33,0,Male,Black
+18,Bachelors,Management,1,0,Male,Black
+51,Some College,Sales,19,0,Female,Asian
+65,Masters,Tech,31,1,Female,White
+18,High School,Services,80,0,Female,Hispanic
+33,Doctorate,Services,14,0,Male,White
+78,Some College,Admin,53,0,Male,White
+81,High School,Services,48,0,Male,White
+80,Some College,Management,69,0,Male,Black
+86,Bachelors,Other,62,0,Female,Other
+39,Doctorate,Management,66,0,Female,Black
+84,High School,Admin,64,0,Male,Black
+43,High School,Management,70,0,Male,White
+33,High School,Other,63,0,Female,Black
+68,High School,Sales,73,0,Male,White
+74,High School,Admin,33,0,Male,Other
+46,Some College,Sales,41,0,Male,Hispanic
+86,Doctorate,Tech,48,0,Male,White
+64,Bachelors,Sales,13,0,Male,Other
+79,Bachelors,Tech,73,1,Male,Hispanic
+86,Bachelors,Tech,77,0,Female,Asian
+33,Bachelors,Sales,31,1,Male,White
+65,Some College,Admin,75,0,Male,White
+56,Masters,Other,68,0,Female,Asian
+50,Doctorate,Management,4,0,Female,Asian
+40,High School,Management,19,0,Female,White
+27,Masters,Other,70,0,Male,Asian
+86,Bachelors,Tech,13,0,Female,Black
+51,Masters,Tech,23,0,Male,Hispanic
+69,Doctorate,Admin,75,1,Male,Hispanic
+27,High School,Services,1,1,Male,Hispanic
+36,High School,Sales,54,0,Female,Black
+75,Doctorate,Tech,71,0,Female,Asian
+18,Doctorate,Management,15,0,Female,Other
+86,Bachelors,Admin,65,0,Female,Asian
+21,High School,Sales,76,0,Female,White
+33,Masters,Admin,71,0,Male,Hispanic
+41,Some College,Sales,15,0,Male,Asian
+19,Some College,Sales,21,1,Male,Other
+49,Doctorate,Other,19,0,Male,White
+41,Bachelors,Tech,60,0,Female,Black
+29,Some College,Admin,33,1,Female,Black
+67,High School,Admin,49,0,Male,Other
+52,Doctorate,Other,35,0,Female,White
+50,Masters,Management,44,1,Female,Hispanic
+50,Doctorate,Management,11,0,Male,Asian
+78,Masters,Tech,72,0,Male,White
+68,Doctorate,Tech,78,0,Female,Black
+60,Doctorate,Services,74,0,Female,Other
+29,Doctorate,Other,66,0,Male,Other
+84,Masters,Management,46,1,Male,Asian
+82,Masters,Sales,9,1,Male,Other
+50,Doctorate,Admin,3,0,Female,Other
+57,Some College,Tech,26,1,Male,White
+60,Bachelors,Admin,72,0,Male,Hispanic
+61,Bachelors,Admin,48,0,Female,Asian
+46,Bachelors,Services,66,0,Female,White
+30,Masters,Management,70,0,Female,Hispanic
+29,Masters,Tech,28,0,Female,White
+63,Some College,Admin,26,1,Female,White
+19,Bachelors,Tech,25,0,Male,Other
+52,Bachelors,Sales,12,0,Male,Hispanic
+25,Doctorate,Services,5,0,Female,Asian
+43,Masters,Sales,48,1,Female,Asian
+51,Bachelors,Tech,37,1,Female,Hispanic
+24,Some College,Tech,79,1,Female,Other
+85,Some College,Management,44,0,Female,Black
+75,Bachelors,Admin,15,0,Male,White
+46,Masters,Admin,43,0,Male,Other
+53,Some College,Sales,48,0,Male,Hispanic
+38,Doctorate,Services,70,0,Male,White
+53,Some College,Other,46,1,Female,Asian
+27,High School,Admin,43,0,Male,Black
+90,High School,Management,21,0,Female,Asian
+41,Masters,Sales,23,0,Female,Hispanic
+81,Bachelors,Sales,80,0,Female,White
+66,Masters,Other,47,0,Male,Hispanic
+53,Masters,Management,15,0,Female,White
+41,Masters,Services,25,0,Male,Other
+40,Masters,Management,36,1,Male,Black
+79,Doctorate,Services,75,1,Female,Other
+54,Doctorate,Management,51,0,Female,Other
+29,Some College,Management,15,0,Female,Hispanic
+72,High School,Tech,68,1,Male,Black
+30,Masters,Sales,21,0,Female,White
+40,Some College,Management,13,0,Male,White
+47,High School,Other,19,1,Female,Asian
+34,Bachelors,Management,34,0,Female,White
+79,Doctorate,Admin,78,0,Male,Hispanic
+30,High School,Sales,68,0,Male,Other
+76,Bachelors,Admin,52,0,Male,Other
+36,High School,Sales,27,0,Male,Other
+66,Doctorate,Admin,29,1,Male,Black
+29,Doctorate,Management,28,0,Male,White
+78,Some College,Management,35,0,Female,Hispanic
+36,Masters,Tech,8,0,Female,Black
+26,High School,Other,16,0,Male,Asian
+88,High School,Admin,36,0,Female,Hispanic
+45,Bachelors,Services,30,1,Male,Hispanic
+69,Doctorate,Tech,18,0,Female,Hispanic
+33,High School,Admin,2,1,Female,Other
+86,Doctorate,Admin,49,1,Male,Hispanic
+29,High School,Tech,77,0,Male,White
+42,Some College,Management,4,0,Male,Hispanic
+69,Masters,Admin,75,1,Female,Other
+70,High School,Management,7,0,Male,Hispanic
+40,Doctorate,Tech,74,0,Female,Asian
+33,Some College,Management,39,0,Male,Asian
+74,High School,Sales,13,0,Female,Other
+56,Bachelors,Services,31,0,Female,White
+70,Masters,Admin,71,1,Male,White
+59,High School,Other,63,1,Female,Black
+75,Some College,Services,56,0,Female,Other
+56,Bachelors,Management,42,0,Male,Hispanic
+31,Some College,Admin,61,0,Female,Other
+22,Some College,Management,42,0,Male,Black
+52,Bachelors,Sales,56,0,Male,Other
+35,Some College,Tech,36,0,Male,Other
+26,Bachelors,Admin,68,0,Male,Black
+75,High School,Sales,7,1,Female,White
+34,Bachelors,Sales,54,0,Female,Hispanic
+24,Bachelors,Admin,1,0,Female,Black
+63,Masters,Management,44,0,Male,Asian
+30,Bachelors,Other,45,1,Female,White
+57,Bachelors,Sales,47,0,Female,Asian
+59,High School,Services,13,0,Male,White
+26,Masters,Sales,22,0,Male,Hispanic
+67,Doctorate,Other,21,1,Female,Hispanic
+44,High School,Management,9,0,Male,Other
+83,High School,Management,26,0,Male,Asian
+22,Doctorate,Services,9,0,Male,White
+46,Bachelors,Sales,15,0,Male,Hispanic
+54,Some College,Management,10,0,Female,Black
+55,Masters,Other,42,1,Male,Hispanic
+25,Some College,Admin,72,0,Male,Black
+82,Doctorate,Tech,24,0,Male,White
+34,High School,Tech,80,0,Male,Hispanic
